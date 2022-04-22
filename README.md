@@ -1,4 +1,4 @@
-# school-o2o
+# youzan-school-client
 
 ## Project setup
 ```
